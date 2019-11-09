@@ -1,6 +1,6 @@
 # Static Pages와 Dynamic Pages
 
-![page](./image/page_1.png)
+![page](./image/page_1.PNG)
 
 ### Static Pages
  - Web Server는 파일 경로 이름을 받아 경로와 일치하는 file contents를 반환한다.
